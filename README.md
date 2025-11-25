@@ -52,6 +52,12 @@ python main.py
 
  	|- 06 - Hyperplane - 50 epok.png
 
+|- report/
+
+ 	|- Rapor.docx
+
+ 	|- Rapor.pdf
+
 |- results/
 
  	|- Epok - Loss Bilgileri.txt
