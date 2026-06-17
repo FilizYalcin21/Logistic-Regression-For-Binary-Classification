@@ -20,6 +20,7 @@ python main.py
 
 ### Dosya Düzeni
 
+```
 .
 ├── dataset/
 │   └── exams-dataset.txt
@@ -43,3 +44,4 @@ python main.py
 ├── README.md
 ├── requirements.txt
 └── train.py
+```
