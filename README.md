@@ -20,48 +20,26 @@ python main.py
 
 ### Dosya Düzeni
 
-/
-
-|- dataset/
-
- 	|- exams-dataset.txt
-  
-|- graphs/
-
- 	|- 01 - Veri Dagilimi.png
-  
- 	|- 02 - Egitim Veri Seti Loss - 1 epok.png
-  
- 	|- 03 - Hyperplane - 1 epok.png
-  
- 	|- 04 - Egitim Veri Seti Loss - 100 epok.png
-  
- 	|- 05 - Egitim Veri Seti Loss - 50 epok.png
-  
- 	|- 06 - Hyperplane - 50 epok.png
-
-|- report/
-
- 	|- Rapor.docx
-
- 	|- Rapor.pdf
-
-|- results/
-
- 	|- Epok - Loss Bilgileri.txt
-  
-|- dataset.py
-
-|- main.py
-
-|- metricUtilities.py
-
-|- model.py
-
-|- plotUtilities.py
-
-|- README.md
-
-|- requirements.txt
-
-|- train.py
+.
+├── dataset/
+│   └── exams-dataset.txt
+├── graphs/
+│   ├── 01 - Veri Dagilimi.png
+│   ├── 02 - Egitim Veri Seti Loss - 1 epok.png
+│   ├── 03 - Hyperplane - 1 epok.png
+│   ├── 04 - Egitim Veri Seti Loss - 100 epok.png
+│   ├── 05 - Egitim Veri Seti Loss - 50 epok.png
+│   └── 06 - Hyperplane - 50 epok.png
+├── report/
+│   ├── Rapor.docx
+│   └── Rapor.pdf
+├── results/
+│   └── Epok - Loss Bilgileri.txt
+├── dataset.py
+├── main.py
+├── metricUtilities.py
+├── model.py
+├── plotUtilities.py
+├── README.md
+├── requirements.txt
+└── train.py
